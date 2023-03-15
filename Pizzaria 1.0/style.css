@@ -1,0 +1,78 @@
+  
+   
+             /*PADRÃO DE CADA PÁGINA*/
+/*corpo*/
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+html{
+    height: 100%;
+    width: 100%;
+    background-color:#f3e9b5;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+  /* título principal / cabeçalho */
+header{
+    height: 15%;
+    width: 100%;
+    background-color: #C00E0E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+/*fonte e cor do titulo (hot chilli...)*/
+#Title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+/*segundo div*/
+.divnum2{
+    background-color: #f5d740;
+    color:#f5d740;
+    width: 100%;
+    height: 50px; 
+
+}
+/* rodape*/
+footer{
+    position: absolute;
+    bottom: 0;
+    background-color:#C00E0E;
+    width: 100%;
+    height: 50px;    
+
+}
+/*titulos no rodape*/
+#rodapetitle{
+  font-size: 10px;
+   text-align: center;
+   color: rgb(0, 0, 0);
+   font-family:monospace;
+}
+/*FIM PADRÃO DE CADA PÁGINA*/
+
+
+/* formulário */
+.form1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+/* título no segundo div - página de cadastro de funcionários*/
+#cadastrofunc{
+    font-size:25px;
+   text-align: center;
+   color: #C00E0E;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+
+ /*CORESSSSSS #88A5BF, #D97904, #F2C49B, #BF3604, #733E32 (amareloo#f8e896)#CBFFC7 FCE360 */
